@@ -1,0 +1,27 @@
+* {
+    font-family: serif;
+}
+
+h1 {
+    color: 	#b00000;
+}
+
+#gallery {
+    width: 80%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#images {
+    display: flex;
+    margin: 2px;
+}
+
+#gallery img {
+    display: inline-block;
+    position: relative;
+    margin: 1px;
+    min-width: 0;
+    object-fit: contain;
+}
