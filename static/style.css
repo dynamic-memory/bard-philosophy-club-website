@@ -6,6 +6,15 @@ h1 {
     color: 	#b00000;
 }
 
+a {
+    color: #b00000;
+}
+
+a:visited {
+    color: #7e0000;
+}
+
+
 #gallery {
     width: 80%;
     position: relative;
