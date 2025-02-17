@@ -1,0 +1,12 @@
+import Home;
+import Chat;
+
+fun main() {
+  addStaticRoute("/core/", "core/", [("links", "text/plain")]);
+  addStaticRoute("/static/", "static/", [("images", "text/plain")]);
+  addRoute("/", fun(_) { Home.main() });
+  addRoute("/chat", fun(_) { Chat.main() });
+  servePages()
+}
+
+main()

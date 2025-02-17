@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/htmx.org@2.0.2" integrity="sha384-Y7hw+L/jvKeWIRRkqWYfPcvVxHzVzn5REgzbawhxAuQGwX1XWe70vji+VSeHOThJ" crossorigin="anonymous"></script>
+    <title>Bard Philosophy Chatroom</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <meta name="description" content="Chatroom">
+    <meta name="author" content="Bard Philosophy Club">
+    <script src="/lib/pocketbase.umd.js"></script>
+    <script type="text/javascript">
+     const pb = new PocketBase('https://platia.pockethost.io/');
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+
+    <style>
+        h1 {
+        color:black;
+        font-family: "Libre Baskerville", Times, serif;
+        font-weight: bold;
+        font-size: 2.5em;
+        }
+        #messages {
+            border: 1px solid #ddd;
+            padding: 10px;
+            height: 300px;
+            overflow-y: scroll;
+            margin-bottom: 10px;
+        }
+        .message {
+        margin-bottom: 5px;
+        }
+        .template { color: gray;}
+        .user { font-weight: bold; }
+
+
+        body { font-family: Arial, sans-serif; }
+        #chat { border: 1px solid #ccc; height: 400px; overflow-y: scroll; padding: 10px; }
+        #message { width: 80%; }
+        #send { width: 15%; }
+    </style>
+</head>
+<body>
+    <!--[if lt IE 8]>
+    <p class="browserupgrade">
+    You are using an <strong>outdated</strong> browser. Please
+    <a href="http://browsehappy.com/">upgrade your browser</a> to improve
+    your experience.
+    </p>
+    <![endif]-->
+
+
+    <a href="../index.html">home</a>
+
+    <div id="chat"></div>
+
+        <form onsubmit="return false">
+                <input type="text" id="fname" name="fname" placeholder="First name" required>
+                <input type="text" id="message" placeholder="Type a message..." >
+                <input type="submit" 
+                id="send"
+                value="Send">
+        </form>
+
+    <script src="app.js"></script>
+</body>
+</html>

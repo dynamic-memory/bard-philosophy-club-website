@@ -1,0 +1,92 @@
+
+fun htmlHead() {
+    <head>
+        <script src="https://unpkg.com/htmx.org@2.0.2" integrity="sha384-Y7hw+L/jvKeWIRRkqWYfPcvVxHzVzn5REgzbawhxAuQGwX1XWe70vji+VSeHOThJ" crossorigin="anonymous"></script>
+        <title>Bard Philosophy Club</title>
+        <meta charset="UTF-8" />
+        <meta name="description" content="The Bard Philosophy Club" />
+        <meta name="keywords" content="" />
+        <meta name="author" content="Henry Wandover & Haniel Barazarte" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="StyleSheet" href="style.css" />
+
+        <link rel="apple-touch-icon" sizes="57x57" href="static/apple-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="60x60" href="static/apple-icon-60x60.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="static/apple-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="static/apple-icon-76x76.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="static/apple-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="static/apple-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="static/apple-icon-144x144.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="static/apple-icon-152x152.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="static/apple-icon-180x180.png" />
+        <link rel="icon" type="image/png" sizes="192x192"  href="static/android-icon-192x192.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="96x96" href="static/favicon-96x96.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16x16.png" />
+        <link rel="manifest" href="static/manifest.json" />
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        <meta name="msapplication-TileImage" content="static/ms-icon-144x144.png" />
+        <meta name="theme-color" content="#ffffff" />
+
+				<style>
+						* {{
+								font-family: serif;
+						}}
+
+						html,body {{
+								height: 100%;
+						}}
+
+						body {{
+								display: flex;
+								flex-direction: column;
+						}}
+
+						#mainContainer {{
+								padding: 1em;
+								flex: 1 0 auto;
+						}}
+
+						footer {{
+								flex-shrink: 0;
+								text-align: center;
+								margin: auto;
+								width: 50%;
+						}}
+
+						h1 {{
+								color: 	#b00000;
+						}}
+
+						a {{
+								color: #b00000;
+						}}
+
+						a:visited {{
+								color: #7e0000;
+						}}
+
+
+						#gallery {{
+								width: 80%;
+								position: relative;
+								left: 50%;
+								transform: translateX(-50%);
+						}}
+
+						#images {{
+								display: flex;
+								margin: 2px;
+						}}
+
+						#gallery img {{
+								display: inline-block;
+								position: relative;
+								margin: 1px;
+								min-width: 0;
+								object-fit: contain;
+						}}
+				</style>
+
+    </head>
+}

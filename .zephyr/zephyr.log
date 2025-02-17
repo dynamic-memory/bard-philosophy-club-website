@@ -1,0 +1,1757 @@
+[6] ./zephyr.pl 256 adding file to watchlist: ./USAGE.md.
+[6] ./zephyr.pl 256 adding file to watchlist: ./a.js.
+[6] ./zephyr.pl 256 adding file to watchlist: ./db.sqlite.
+[6] ./zephyr.pl 256 adding file to watchlist: ./main.links.
+[7] ./zephyr.pl 256 adding file to watchlist: ./app.js.
+[7] ./zephyr.pl 256 adding file to watchlist: ./config.
+[7] ./zephyr.pl 256 adding file to watchlist: ./index.html.
+[7] ./zephyr.pl 256 adding file to watchlist: ./README.md.
+[7] ./zephyr.pl 256 adding file to watchlist: ./style.css.
+[7] ./zephyr.pl 256 adding file to watchlist: ./zephyr.pl.
+[7] ./zephyr.pl 256 adding file to watchlist: ./CNAME.
+[7] ./zephyr.pl 227 skipping git file: ./.git/packed-refs in ./.git.
+[7] ./zephyr.pl 227 skipping git file: ./.git/FETCH_HEAD in ./.git.
+[7] ./zephyr.pl 227 skipping git file: ./.git/index in ./.git.
+[7] ./zephyr.pl 227 skipping git file: ./.git/config in ./.git.
+[7] ./zephyr.pl 227 skipping git file: ./.git/COMMIT_EDITMSG in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/HEAD in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/description in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/ORIG_HEAD in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/logs/HEAD in ./.git/logs.
+[8] ./zephyr.pl 227 skipping git file: ./.git/logs/refs/heads/main in ./.git/logs/refs/heads.
+[8] ./zephyr.pl 227 skipping git file: ./.git/logs/refs/remotes/origin/main in ./.git/logs/refs/remotes/origin.
+[8] ./zephyr.pl 227 skipping git file: ./.git/logs/refs/remotes/origin/HEAD in ./.git/logs/refs/remotes/origin.
+[8] ./zephyr.pl 227 skipping git file: ./.git/info/exclude in ./.git/info.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8 in ./.git/objects/6c.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db in ./.git/objects/fb.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb in ./.git/objects/cd.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133 in ./.git/objects/c5.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28 in ./.git/objects/c1.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6 in ./.git/objects/c7.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373 in ./.git/objects/d7.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a in ./.git/objects/3f.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746 in ./.git/objects/ef.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7 in ./.git/objects/9d.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45 in ./.git/objects/0a.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747 in ./.git/objects/5e.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d in ./.git/objects/57.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9 in ./.git/objects/37.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f in ./.git/objects/1e.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f in ./.git/objects/d8.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0 in ./.git/objects/49.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83 in ./.git/objects/a0.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1 in ./.git/objects/31.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3 in ./.git/objects/f2.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21 in ./.git/objects/12.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5 in ./.git/objects/12.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775 in ./.git/objects/e1.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f in ./.git/objects/11.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514 in ./.git/objects/01.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39 in ./.git/objects/41.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617 in ./.git/objects/c6.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4 in ./.git/objects/df.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1 in ./.git/objects/0d.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c in ./.git/objects/92.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef in ./.git/objects/bf.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc in ./.git/objects/24.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f in ./.git/objects/24.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b in ./.git/objects/f4.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f in ./.git/objects/85.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e in ./.git/objects/35.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77 in ./.git/objects/56.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184 in ./.git/objects/03.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff in ./.git/objects/f0.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx in ./.git/objects/pack.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack in ./.git/objects/pack.
+[12] ./zephyr.pl 227 skipping git file: ./.git/hooks/post-update.sample in ./.git/hooks.
+[12] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-merge-commit.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/prepare-commit-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-rebase.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-applypatch.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-commit.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/fsmonitor-watchman.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/commit-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/push-to-checkout.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-receive.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-push.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/update.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/applypatch-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/refs/heads/main in ./.git/refs/heads.
+[13] ./zephyr.pl 227 skipping git file: ./.git/refs/remotes/origin/main in ./.git/refs/remotes/origin.
+[14] ./zephyr.pl 227 skipping git file: ./.git/refs/remotes/origin/HEAD in ./.git/refs/remotes/origin.
+[14] ./zephyr.pl 256 adding file to watchlist: ./core/chat.links.
+[14] ./zephyr.pl 256 adding file to watchlist: ./core/home.links.
+[14] ./zephyr.pl 256 adding file to watchlist: ./core/common.links.
+[14] ./zephyr.pl 256 adding file to watchlist: ./chat/index.html.
+[14] ./zephyr.pl 256 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html.
+[14] ./zephyr.pl 256 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html.
+[14] ./zephyr.pl 256 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx.
+[15] ./zephyr.pl 256 adding file to watchlist: ./.zephyr/zephyr.log.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/marx.jpg.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-72x72.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-48x48.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-180x180.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-57x57.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-144x144.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/ms-icon-144x144.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/ms-icon-150x150.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-114x114.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-144x144.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-96x96.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/manifest.json.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/plato.jpg.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-152x152.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/kondylis.jpeg.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/ms-icon-70x70.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/weil.jpg.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-120x120.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-76x76.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/favicon.ico.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/index.html.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/ilyenkov.jpg.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-192x192.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/favicon-16x16.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/browserconfig.xml.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-precomposed.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/arendt.jpg.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-60x60.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/favicon-32x32.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/ms-icon-310x310.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/aquinas.jpg.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-36x36.png.
+[18] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-72x72.png.
+[18] ./zephyr.pl 256 adding file to watchlist: ./static/favicon-96x96.png.
+[18] ./zephyr.pl 256 adding file to watchlist: ./lib/pocketbase.umd.js.
+[36] ./zephyr.pl 210 calling Links as: links --debug --session-exceptions --path=core --config=./config ./main.links
+[609] ./zephyr.pl 108 Caught: INT
+[769] ./zephyr.pl 108 Caught: INT
+[7] ./zephyr.pl 256 adding file to watchlist: ./USAGE.md.
+[7] ./zephyr.pl 256 adding file to watchlist: ./a.js.
+[7] ./zephyr.pl 256 adding file to watchlist: ./db.sqlite.
+[7] ./zephyr.pl 256 adding file to watchlist: ./main.links.
+[7] ./zephyr.pl 256 adding file to watchlist: ./app.js.
+[7] ./zephyr.pl 256 adding file to watchlist: ./config.
+[7] ./zephyr.pl 256 adding file to watchlist: ./index.html.
+[7] ./zephyr.pl 256 adding file to watchlist: ./README.md.
+[7] ./zephyr.pl 256 adding file to watchlist: ./style.css.
+[7] ./zephyr.pl 256 adding file to watchlist: ./zephyr.pl.
+[8] ./zephyr.pl 256 adding file to watchlist: ./CNAME.
+[8] ./zephyr.pl 227 skipping git file: ./.git/packed-refs in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/FETCH_HEAD in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/index in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/config in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/COMMIT_EDITMSG in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/HEAD in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/description in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/ORIG_HEAD in ./.git.
+[8] ./zephyr.pl 227 skipping git file: ./.git/logs/HEAD in ./.git/logs.
+[8] ./zephyr.pl 227 skipping git file: ./.git/logs/refs/heads/main in ./.git/logs/refs/heads.
+[8] ./zephyr.pl 227 skipping git file: ./.git/logs/refs/remotes/origin/main in ./.git/logs/refs/remotes/origin.
+[8] ./zephyr.pl 227 skipping git file: ./.git/logs/refs/remotes/origin/HEAD in ./.git/logs/refs/remotes/origin.
+[9] ./zephyr.pl 227 skipping git file: ./.git/info/exclude in ./.git/info.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8 in ./.git/objects/6c.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db in ./.git/objects/fb.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb in ./.git/objects/cd.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133 in ./.git/objects/c5.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28 in ./.git/objects/c1.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6 in ./.git/objects/c7.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373 in ./.git/objects/d7.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a in ./.git/objects/3f.
+[9] ./zephyr.pl 227 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746 in ./.git/objects/ef.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7 in ./.git/objects/9d.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45 in ./.git/objects/0a.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747 in ./.git/objects/5e.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d in ./.git/objects/57.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9 in ./.git/objects/37.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f in ./.git/objects/1e.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f in ./.git/objects/d8.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0 in ./.git/objects/49.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83 in ./.git/objects/a0.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1 in ./.git/objects/31.
+[10] ./zephyr.pl 227 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3 in ./.git/objects/f2.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21 in ./.git/objects/12.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5 in ./.git/objects/12.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775 in ./.git/objects/e1.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f in ./.git/objects/11.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514 in ./.git/objects/01.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39 in ./.git/objects/41.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617 in ./.git/objects/c6.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4 in ./.git/objects/df.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1 in ./.git/objects/0d.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c in ./.git/objects/92.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef in ./.git/objects/bf.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc in ./.git/objects/24.
+[11] ./zephyr.pl 227 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f in ./.git/objects/24.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b in ./.git/objects/f4.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f in ./.git/objects/85.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e in ./.git/objects/35.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77 in ./.git/objects/56.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184 in ./.git/objects/03.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff in ./.git/objects/f0.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx in ./.git/objects/pack.
+[12] ./zephyr.pl 227 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack in ./.git/objects/pack.
+[12] ./zephyr.pl 227 skipping git file: ./.git/hooks/post-update.sample in ./.git/hooks.
+[12] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-merge-commit.sample in ./.git/hooks.
+[12] ./zephyr.pl 227 skipping git file: ./.git/hooks/prepare-commit-msg.sample in ./.git/hooks.
+[12] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-rebase.sample in ./.git/hooks.
+[12] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-applypatch.sample in ./.git/hooks.
+[12] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-commit.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/fsmonitor-watchman.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/commit-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/push-to-checkout.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-receive.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/pre-push.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/update.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/hooks/applypatch-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 227 skipping git file: ./.git/refs/heads/main in ./.git/refs/heads.
+[13] ./zephyr.pl 227 skipping git file: ./.git/refs/remotes/origin/main in ./.git/refs/remotes/origin.
+[13] ./zephyr.pl 227 skipping git file: ./.git/refs/remotes/origin/HEAD in ./.git/refs/remotes/origin.
+[13] ./zephyr.pl 256 adding file to watchlist: ./core/chat.links.
+[13] ./zephyr.pl 256 adding file to watchlist: ./core/home.links.
+[14] ./zephyr.pl 256 adding file to watchlist: ./core/common.links.
+[14] ./zephyr.pl 256 adding file to watchlist: ./chat/index.html.
+[14] ./zephyr.pl 256 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html.
+[14] ./zephyr.pl 256 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html.
+[14] ./zephyr.pl 256 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx.
+[14] ./zephyr.pl 256 adding file to watchlist: ./.zephyr/zephyr.log.
+[14] ./zephyr.pl 256 adding file to watchlist: ./static/marx.jpg.
+[14] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-72x72.png.
+[14] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-48x48.png.
+[14] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-180x180.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-57x57.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-144x144.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/ms-icon-144x144.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/ms-icon-150x150.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-114x114.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-144x144.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-96x96.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/manifest.json.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/plato.jpg.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-152x152.png.
+[15] ./zephyr.pl 256 adding file to watchlist: ./static/kondylis.jpeg.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/ms-icon-70x70.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/weil.jpg.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-120x120.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-76x76.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/favicon.ico.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/index.html.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/ilyenkov.jpg.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-192x192.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/favicon-16x16.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/browserconfig.xml.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-precomposed.png.
+[16] ./zephyr.pl 256 adding file to watchlist: ./static/arendt.jpg.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-60x60.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/favicon-32x32.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/ms-icon-310x310.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/aquinas.jpg.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/android-icon-36x36.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/apple-icon-72x72.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./static/favicon-96x96.png.
+[17] ./zephyr.pl 256 adding file to watchlist: ./lib/pocketbase.umd.js.
+[35] ./zephyr.pl 210 calling Links as: links --debug --session-exceptions --path=core --config=./config ./main.links
+[557] ./zephyr.pl 108 Caught: INT
+[736] ./zephyr.pl 108 Caught: INT
+[6] ./zephyr.pl 254 adding file to watchlist: ./USAGE.md.
+[7] ./zephyr.pl 254 adding file to watchlist: ./a.js.
+[7] ./zephyr.pl 254 adding file to watchlist: ./db.sqlite.
+[7] ./zephyr.pl 254 adding file to watchlist: ./main.links.
+[7] ./zephyr.pl 254 adding file to watchlist: ./app.js.
+[7] ./zephyr.pl 254 adding file to watchlist: ./config.
+[7] ./zephyr.pl 254 adding file to watchlist: ./index.html.
+[7] ./zephyr.pl 254 adding file to watchlist: ./README.md.
+[7] ./zephyr.pl 254 adding file to watchlist: ./style.css.
+[7] ./zephyr.pl 254 adding file to watchlist: ./zephyr.pl.
+[7] ./zephyr.pl 254 adding file to watchlist: ./CNAME.
+[7] ./zephyr.pl 225 skipping git file: ./.git/packed-refs in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/FETCH_HEAD in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/index in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/config in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/COMMIT_EDITMSG in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/HEAD in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/description in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/ORIG_HEAD in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/logs in ./.git.
+[8] ./zephyr.pl 225 skipping git file: ./.git/logs/HEAD in ./.git/logs.
+[8] ./zephyr.pl 225 skipping git file: ./.git/logs/refs in ./.git/logs.
+[8] ./zephyr.pl 225 skipping git file: ./.git/logs/refs/heads in ./.git/logs/refs.
+[8] ./zephyr.pl 225 skipping git file: ./.git/logs/refs/heads/main in ./.git/logs/refs/heads.
+[8] ./zephyr.pl 225 skipping git file: ./.git/logs/refs/remotes in ./.git/logs/refs.
+[9] ./zephyr.pl 225 skipping git file: ./.git/logs/refs/remotes/origin in ./.git/logs/refs/remotes.
+[9] ./zephyr.pl 225 skipping git file: ./.git/logs/refs/remotes/origin/main in ./.git/logs/refs/remotes/origin.
+[9] ./zephyr.pl 225 skipping git file: ./.git/logs/refs/remotes/origin/HEAD in ./.git/logs/refs/remotes/origin.
+[9] ./zephyr.pl 225 skipping git file: ./.git/branches in ./.git.
+[9] ./zephyr.pl 225 skipping git file: ./.git/info in ./.git.
+[9] ./zephyr.pl 225 skipping git file: ./.git/info/exclude in ./.git/info.
+[9] ./zephyr.pl 225 skipping git file: ./.git/objects in ./.git.
+[9] ./zephyr.pl 225 skipping git file: ./.git/objects/6c in ./.git/objects.
+[9] ./zephyr.pl 225 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8 in ./.git/objects/6c.
+[9] ./zephyr.pl 225 skipping git file: ./.git/objects/fb in ./.git/objects.
+[9] ./zephyr.pl 225 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db in ./.git/objects/fb.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/cd in ./.git/objects.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb in ./.git/objects/cd.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/c5 in ./.git/objects.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133 in ./.git/objects/c5.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/c1 in ./.git/objects.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28 in ./.git/objects/c1.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/c7 in ./.git/objects.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6 in ./.git/objects/c7.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/d7 in ./.git/objects.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373 in ./.git/objects/d7.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/3f in ./.git/objects.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a in ./.git/objects/3f.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/ef in ./.git/objects.
+[10] ./zephyr.pl 225 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746 in ./.git/objects/ef.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/9d in ./.git/objects.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7 in ./.git/objects/9d.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/0a in ./.git/objects.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45 in ./.git/objects/0a.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/5e in ./.git/objects.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747 in ./.git/objects/5e.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/info in ./.git/objects.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/57 in ./.git/objects.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d in ./.git/objects/57.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/37 in ./.git/objects.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9 in ./.git/objects/37.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/1e in ./.git/objects.
+[11] ./zephyr.pl 225 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f in ./.git/objects/1e.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/d8 in ./.git/objects.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f in ./.git/objects/d8.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/49 in ./.git/objects.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0 in ./.git/objects/49.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/a0 in ./.git/objects.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83 in ./.git/objects/a0.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/31 in ./.git/objects.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1 in ./.git/objects/31.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/f2 in ./.git/objects.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3 in ./.git/objects/f2.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/12 in ./.git/objects.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21 in ./.git/objects/12.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5 in ./.git/objects/12.
+[12] ./zephyr.pl 225 skipping git file: ./.git/objects/e1 in ./.git/objects.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775 in ./.git/objects/e1.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/11 in ./.git/objects.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f in ./.git/objects/11.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/01 in ./.git/objects.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514 in ./.git/objects/01.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/41 in ./.git/objects.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39 in ./.git/objects/41.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/c6 in ./.git/objects.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617 in ./.git/objects/c6.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/df in ./.git/objects.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4 in ./.git/objects/df.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/0d in ./.git/objects.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1 in ./.git/objects/0d.
+[13] ./zephyr.pl 225 skipping git file: ./.git/objects/92 in ./.git/objects.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c in ./.git/objects/92.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/bf in ./.git/objects.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef in ./.git/objects/bf.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/24 in ./.git/objects.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc in ./.git/objects/24.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f in ./.git/objects/24.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/f4 in ./.git/objects.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b in ./.git/objects/f4.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/85 in ./.git/objects.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f in ./.git/objects/85.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/35 in ./.git/objects.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e in ./.git/objects/35.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/56 in ./.git/objects.
+[14] ./zephyr.pl 225 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77 in ./.git/objects/56.
+[15] ./zephyr.pl 225 skipping git file: ./.git/objects/03 in ./.git/objects.
+[15] ./zephyr.pl 225 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184 in ./.git/objects/03.
+[15] ./zephyr.pl 225 skipping git file: ./.git/objects/f0 in ./.git/objects.
+[15] ./zephyr.pl 225 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff in ./.git/objects/f0.
+[15] ./zephyr.pl 225 skipping git file: ./.git/objects/pack in ./.git/objects.
+[15] ./zephyr.pl 225 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx in ./.git/objects/pack.
+[15] ./zephyr.pl 225 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack in ./.git/objects/pack.
+[15] ./zephyr.pl 225 skipping git file: ./.git/hooks in ./.git.
+[15] ./zephyr.pl 225 skipping git file: ./.git/hooks/post-update.sample in ./.git/hooks.
+[15] ./zephyr.pl 225 skipping git file: ./.git/hooks/pre-merge-commit.sample in ./.git/hooks.
+[15] ./zephyr.pl 225 skipping git file: ./.git/hooks/prepare-commit-msg.sample in ./.git/hooks.
+[15] ./zephyr.pl 225 skipping git file: ./.git/hooks/pre-rebase.sample in ./.git/hooks.
+[15] ./zephyr.pl 225 skipping git file: ./.git/hooks/pre-applypatch.sample in ./.git/hooks.
+[15] ./zephyr.pl 225 skipping git file: ./.git/hooks/pre-commit.sample in ./.git/hooks.
+[16] ./zephyr.pl 225 skipping git file: ./.git/hooks/fsmonitor-watchman.sample in ./.git/hooks.
+[16] ./zephyr.pl 225 skipping git file: ./.git/hooks/commit-msg.sample in ./.git/hooks.
+[16] ./zephyr.pl 225 skipping git file: ./.git/hooks/push-to-checkout.sample in ./.git/hooks.
+[16] ./zephyr.pl 225 skipping git file: ./.git/hooks/pre-receive.sample in ./.git/hooks.
+[16] ./zephyr.pl 225 skipping git file: ./.git/hooks/pre-push.sample in ./.git/hooks.
+[16] ./zephyr.pl 225 skipping git file: ./.git/hooks/update.sample in ./.git/hooks.
+[16] ./zephyr.pl 225 skipping git file: ./.git/hooks/applypatch-msg.sample in ./.git/hooks.
+[16] ./zephyr.pl 225 skipping git file: ./.git/refs in ./.git.
+[16] ./zephyr.pl 225 skipping git file: ./.git/refs/heads in ./.git/refs.
+[16] ./zephyr.pl 225 skipping git file: ./.git/refs/heads/main in ./.git/refs/heads.
+[16] ./zephyr.pl 225 skipping git file: ./.git/refs/remotes in ./.git/refs.
+[16] ./zephyr.pl 225 skipping git file: ./.git/refs/remotes/origin in ./.git/refs/remotes.
+[16] ./zephyr.pl 225 skipping git file: ./.git/refs/remotes/origin/main in ./.git/refs/remotes/origin.
+[16] ./zephyr.pl 225 skipping git file: ./.git/refs/remotes/origin/HEAD in ./.git/refs/remotes/origin.
+[16] ./zephyr.pl 225 skipping git file: ./.git/refs/tags in ./.git/refs.
+[17] ./zephyr.pl 254 adding file to watchlist: ./core.
+[17] ./zephyr.pl 254 adding file to watchlist: ./core/chat.links.
+[17] ./zephyr.pl 254 adding file to watchlist: ./core/home.links.
+[17] ./zephyr.pl 254 adding file to watchlist: ./core/common.links.
+[17] ./zephyr.pl 254 adding file to watchlist: ./chat.
+[17] ./zephyr.pl 254 adding file to watchlist: ./chat/index.html.
+[17] ./zephyr.pl 254 adding file to watchlist: ./student-essays.
+[17] ./zephyr.pl 254 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html.
+[17] ./zephyr.pl 254 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html.
+[17] ./zephyr.pl 254 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx.
+[18] ./zephyr.pl 254 adding file to watchlist: ./.zephyr/zephyr.log.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/marx.jpg.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/android-icon-72x72.png.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/android-icon-48x48.png.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-180x180.png.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-57x57.png.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-144x144.png.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/ms-icon-144x144.png.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/ms-icon-150x150.png.
+[18] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-114x114.png.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/android-icon-144x144.png.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/android-icon-96x96.png.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/manifest.json.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon.png.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/plato.jpg.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-152x152.png.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/kondylis.jpeg.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/ms-icon-70x70.png.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/weil.jpg.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-120x120.png.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-76x76.png.
+[19] ./zephyr.pl 254 adding file to watchlist: ./static/favicon.ico.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/index.html.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/ilyenkov.jpg.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/android-icon-192x192.png.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/favicon-16x16.png.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/browserconfig.xml.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-precomposed.png.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/arendt.jpg.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-60x60.png.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/favicon-32x32.png.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/ms-icon-310x310.png.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/aquinas.jpg.
+[20] ./zephyr.pl 254 adding file to watchlist: ./static/android-icon-36x36.png.
+[21] ./zephyr.pl 254 adding file to watchlist: ./static/apple-icon-72x72.png.
+[21] ./zephyr.pl 254 adding file to watchlist: ./static/favicon-96x96.png.
+[21] ./zephyr.pl 254 adding file to watchlist: ./lib.
+[21] ./zephyr.pl 254 adding file to watchlist: ./lib/pocketbase.umd.js.
+[39] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=core --config=./config ./main.links
+[338] ./zephyr.pl 109 Caught: INT
+[522] ./zephyr.pl 109 Caught: INT
+[7] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md.
+[7] ./zephyr.pl 257 adding file to watchlist: ./a.js.
+[7] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite.
+[7] ./zephyr.pl 257 adding file to watchlist: ./main.links.
+[7] ./zephyr.pl 257 adding file to watchlist: ./app.js.
+[7] ./zephyr.pl 257 adding file to watchlist: ./config.
+[7] ./zephyr.pl 257 adding file to watchlist: ./index.html.
+[7] ./zephyr.pl 257 adding file to watchlist: ./README.md.
+[8] ./zephyr.pl 257 adding file to watchlist: ./style.css.
+[8] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl.
+[8] ./zephyr.pl 257 adding file to watchlist: ./CNAME.
+[8] ./zephyr.pl 228 skipping git file: ./.git/packed-refs in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/FETCH_HEAD in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/index in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/config in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/COMMIT_EDITMSG in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/HEAD in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/description in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/ORIG_HEAD in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/logs/HEAD in ./.git/logs.
+[9] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/heads/main in ./.git/logs/refs/heads.
+[9] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/remotes/origin/main in ./.git/logs/refs/remotes/origin.
+[9] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/remotes/origin/HEAD in ./.git/logs/refs/remotes/origin.
+[9] ./zephyr.pl 228 skipping git file: ./.git/info/exclude in ./.git/info.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8 in ./.git/objects/6c.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db in ./.git/objects/fb.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb in ./.git/objects/cd.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133 in ./.git/objects/c5.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28 in ./.git/objects/c1.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6 in ./.git/objects/c7.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373 in ./.git/objects/d7.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a in ./.git/objects/3f.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746 in ./.git/objects/ef.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7 in ./.git/objects/9d.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45 in ./.git/objects/0a.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747 in ./.git/objects/5e.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d in ./.git/objects/57.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9 in ./.git/objects/37.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f in ./.git/objects/1e.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f in ./.git/objects/d8.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0 in ./.git/objects/49.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83 in ./.git/objects/a0.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1 in ./.git/objects/31.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3 in ./.git/objects/f2.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21 in ./.git/objects/12.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5 in ./.git/objects/12.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775 in ./.git/objects/e1.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f in ./.git/objects/11.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514 in ./.git/objects/01.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39 in ./.git/objects/41.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617 in ./.git/objects/c6.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4 in ./.git/objects/df.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1 in ./.git/objects/0d.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c in ./.git/objects/92.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef in ./.git/objects/bf.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc in ./.git/objects/24.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f in ./.git/objects/24.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b in ./.git/objects/f4.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f in ./.git/objects/85.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e in ./.git/objects/35.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77 in ./.git/objects/56.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184 in ./.git/objects/03.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff in ./.git/objects/f0.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx in ./.git/objects/pack.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack in ./.git/objects/pack.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/post-update.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-merge-commit.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/prepare-commit-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-rebase.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-applypatch.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-commit.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/fsmonitor-watchman.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/commit-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/push-to-checkout.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-receive.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-push.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/update.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/applypatch-msg.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/heads/main in ./.git/refs/heads.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/remotes/origin/main in ./.git/refs/remotes/origin.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/remotes/origin/HEAD in ./.git/refs/remotes/origin.
+[14] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links.
+[14] ./zephyr.pl 257 adding file to watchlist: ./core/home.links.
+[14] ./zephyr.pl 257 adding file to watchlist: ./core/common.links.
+[14] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html.
+[15] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html.
+[15] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html.
+[15] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx.
+[15] ./zephyr.pl 257 adding file to watchlist: ./.zephyr/zephyr.log.
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg.
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png.
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png.
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png.
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png.
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png.
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/index.html.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png.
+[18] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js.
+[37] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=core --config=./config ./main.links
+[538] ./zephyr.pl 109 Caught: INT
+[711] ./zephyr.pl 109 Caught: INT
+[7] ./zephyr.pl 228 skipping git file: ./USAGE.md in ..
+[7] ./zephyr.pl 228 skipping git file: ./a.js in ..
+[7] ./zephyr.pl 228 skipping git file: ./db.sqlite in ..
+[8] ./zephyr.pl 228 skipping git file: ./main.links in ..
+[8] ./zephyr.pl 228 skipping git file: ./.links_output.log in ..
+[8] ./zephyr.pl 228 skipping git file: ./app.js in ..
+[8] ./zephyr.pl 228 skipping git file: ./config in ..
+[8] ./zephyr.pl 228 skipping git file: ./index.html in ..
+[8] ./zephyr.pl 228 skipping git file: ./README.md in ..
+[8] ./zephyr.pl 228 skipping git file: ./style.css in ..
+[8] ./zephyr.pl 228 skipping git file: ./zephyr.pl in ..
+[8] ./zephyr.pl 228 skipping git file: ./CNAME in ..
+[8] ./zephyr.pl 228 skipping git file: ./.git/packed-refs in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/FETCH_HEAD in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/index in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/config in ./.git.
+[9] ./zephyr.pl 228 skipping git file: ./.git/COMMIT_EDITMSG in ./.git.
+[9] ./zephyr.pl 228 skipping git file: ./.git/HEAD in ./.git.
+[9] ./zephyr.pl 228 skipping git file: ./.git/description in ./.git.
+[9] ./zephyr.pl 228 skipping git file: ./.git/ORIG_HEAD in ./.git.
+[9] ./zephyr.pl 228 skipping git file: ./.git/logs/HEAD in ./.git/logs.
+[9] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/heads/main in ./.git/logs/refs/heads.
+[9] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/remotes/origin/main in ./.git/logs/refs/remotes/origin.
+[9] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/remotes/origin/HEAD in ./.git/logs/refs/remotes/origin.
+[9] ./zephyr.pl 228 skipping git file: ./.git/info/exclude in ./.git/info.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8 in ./.git/objects/6c.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db in ./.git/objects/fb.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb in ./.git/objects/cd.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133 in ./.git/objects/c5.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28 in ./.git/objects/c1.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6 in ./.git/objects/c7.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373 in ./.git/objects/d7.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a in ./.git/objects/3f.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746 in ./.git/objects/ef.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7 in ./.git/objects/9d.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45 in ./.git/objects/0a.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747 in ./.git/objects/5e.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d in ./.git/objects/57.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9 in ./.git/objects/37.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f in ./.git/objects/1e.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f in ./.git/objects/d8.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0 in ./.git/objects/49.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83 in ./.git/objects/a0.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1 in ./.git/objects/31.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3 in ./.git/objects/f2.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21 in ./.git/objects/12.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5 in ./.git/objects/12.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775 in ./.git/objects/e1.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f in ./.git/objects/11.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514 in ./.git/objects/01.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39 in ./.git/objects/41.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617 in ./.git/objects/c6.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4 in ./.git/objects/df.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1 in ./.git/objects/0d.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c in ./.git/objects/92.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef in ./.git/objects/bf.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc in ./.git/objects/24.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f in ./.git/objects/24.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b in ./.git/objects/f4.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f in ./.git/objects/85.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e in ./.git/objects/35.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77 in ./.git/objects/56.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184 in ./.git/objects/03.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff in ./.git/objects/f0.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx in ./.git/objects/pack.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack in ./.git/objects/pack.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/post-update.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-merge-commit.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/prepare-commit-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-rebase.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-applypatch.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-commit.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/fsmonitor-watchman.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/commit-msg.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/push-to-checkout.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-receive.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-push.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/update.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/applypatch-msg.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/heads/main in ./.git/refs/heads.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/remotes/origin/main in ./.git/refs/remotes/origin.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/remotes/origin/HEAD in ./.git/refs/remotes/origin.
+[14] ./zephyr.pl 228 skipping git file: ./core/chat.links in ./core.
+[14] ./zephyr.pl 228 skipping git file: ./core/home.links in ./core.
+[15] ./zephyr.pl 228 skipping git file: ./core/common.links in ./core.
+[15] ./zephyr.pl 228 skipping git file: ./chat/index.html in ./chat.
+[15] ./zephyr.pl 228 skipping git file: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html in ./student-essays.
+[15] ./zephyr.pl 228 skipping git file: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html in ./student-essays.
+[15] ./zephyr.pl 228 skipping git file: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx in ./student-essays.
+[15] ./zephyr.pl 228 skipping git file: ./.zephyr/zephyr.log in ./.zephyr.
+[15] ./zephyr.pl 228 skipping git file: ./static/marx.jpg in ./static.
+[15] ./zephyr.pl 228 skipping git file: ./static/android-icon-72x72.png in ./static.
+[15] ./zephyr.pl 228 skipping git file: ./static/android-icon-48x48.png in ./static.
+[15] ./zephyr.pl 228 skipping git file: ./static/apple-icon-180x180.png in ./static.
+[15] ./zephyr.pl 228 skipping git file: ./static/apple-icon-57x57.png in ./static.
+[15] ./zephyr.pl 228 skipping git file: ./static/apple-icon-144x144.png in ./static.
+[15] ./zephyr.pl 228 skipping git file: ./static/ms-icon-144x144.png in ./static.
+[15] ./zephyr.pl 228 skipping git file: ./static/ms-icon-150x150.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/apple-icon-114x114.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/android-icon-144x144.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/android-icon-96x96.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/manifest.json in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/apple-icon.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/plato.jpg in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/apple-icon-152x152.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/kondylis.jpeg in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/ms-icon-70x70.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/weil.jpg in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/apple-icon-120x120.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/apple-icon-76x76.png in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/favicon.ico in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/index.html in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/ilyenkov.jpg in ./static.
+[16] ./zephyr.pl 228 skipping git file: ./static/android-icon-192x192.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/favicon-16x16.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/browserconfig.xml in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/apple-icon-precomposed.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/arendt.jpg in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/apple-icon-60x60.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/favicon-32x32.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/ms-icon-310x310.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/aquinas.jpg in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/android-icon-36x36.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/apple-icon-72x72.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./static/favicon-96x96.png in ./static.
+[17] ./zephyr.pl 228 skipping git file: ./lib/pocketbase.umd.js in ./lib.
+[35] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path= 
+[3450] ./zephyr.pl 152 refreshed page with updated content.
+[5] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md.
+[6] ./zephyr.pl 257 adding file to watchlist: ./a.js.
+[6] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite.
+[6] ./zephyr.pl 252 adding directoru to watchlist: ..
+[6] ./zephyr.pl 257 adding file to watchlist: ./main.links.
+[6] ./zephyr.pl 257 adding file to watchlist: ./app.js.
+[6] ./zephyr.pl 257 adding file to watchlist: ./config.
+[6] ./zephyr.pl 257 adding file to watchlist: ./index.html.
+[6] ./zephyr.pl 257 adding file to watchlist: ./README.md.
+[7] ./zephyr.pl 257 adding file to watchlist: ./style.css.
+[7] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl.
+[7] ./zephyr.pl 257 adding file to watchlist: ./CNAME.
+[7] ./zephyr.pl 228 skipping git file: ./.git/packed-refs in ./.git.
+[7] ./zephyr.pl 228 skipping git file: ./.git/FETCH_HEAD in ./.git.
+[7] ./zephyr.pl 228 skipping git file: ./.git/index in ./.git.
+[7] ./zephyr.pl 228 skipping git file: ./.git/config in ./.git.
+[7] ./zephyr.pl 228 skipping git file: ./.git/COMMIT_EDITMSG in ./.git.
+[7] ./zephyr.pl 228 skipping git file: ./.git/HEAD in ./.git.
+[7] ./zephyr.pl 228 skipping git file: ./.git/description in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/ORIG_HEAD in ./.git.
+[8] ./zephyr.pl 228 skipping git file: ./.git/logs/HEAD in ./.git/logs.
+[8] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/heads/main in ./.git/logs/refs/heads.
+[8] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/remotes/origin/main in ./.git/logs/refs/remotes/origin.
+[8] ./zephyr.pl 228 skipping git file: ./.git/logs/refs/remotes/origin/HEAD in ./.git/logs/refs/remotes/origin.
+[8] ./zephyr.pl 228 skipping git file: ./.git/info/exclude in ./.git/info.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8 in ./.git/objects/6c.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db in ./.git/objects/fb.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb in ./.git/objects/cd.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133 in ./.git/objects/c5.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28 in ./.git/objects/c1.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6 in ./.git/objects/c7.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373 in ./.git/objects/d7.
+[9] ./zephyr.pl 228 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a in ./.git/objects/3f.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746 in ./.git/objects/ef.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7 in ./.git/objects/9d.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45 in ./.git/objects/0a.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747 in ./.git/objects/5e.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d in ./.git/objects/57.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9 in ./.git/objects/37.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f in ./.git/objects/1e.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f in ./.git/objects/d8.
+[10] ./zephyr.pl 228 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0 in ./.git/objects/49.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83 in ./.git/objects/a0.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1 in ./.git/objects/31.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3 in ./.git/objects/f2.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21 in ./.git/objects/12.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5 in ./.git/objects/12.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775 in ./.git/objects/e1.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f in ./.git/objects/11.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514 in ./.git/objects/01.
+[11] ./zephyr.pl 228 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39 in ./.git/objects/41.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617 in ./.git/objects/c6.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4 in ./.git/objects/df.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1 in ./.git/objects/0d.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c in ./.git/objects/92.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef in ./.git/objects/bf.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc in ./.git/objects/24.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f in ./.git/objects/24.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b in ./.git/objects/f4.
+[12] ./zephyr.pl 228 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f in ./.git/objects/85.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e in ./.git/objects/35.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77 in ./.git/objects/56.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184 in ./.git/objects/03.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff in ./.git/objects/f0.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx in ./.git/objects/pack.
+[13] ./zephyr.pl 228 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack in ./.git/objects/pack.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/post-update.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-merge-commit.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/prepare-commit-msg.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-rebase.sample in ./.git/hooks.
+[13] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-applypatch.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-commit.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/fsmonitor-watchman.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/commit-msg.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/push-to-checkout.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-receive.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/pre-push.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/update.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/hooks/applypatch-msg.sample in ./.git/hooks.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/heads/main in ./.git/refs/heads.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/remotes/origin/main in ./.git/refs/remotes/origin.
+[14] ./zephyr.pl 228 skipping git file: ./.git/refs/remotes/origin/HEAD in ./.git/refs/remotes/origin.
+[15] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[15] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links.
+[15] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[15] ./zephyr.pl 257 adding file to watchlist: ./core/home.links.
+[15] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[15] ./zephyr.pl 257 adding file to watchlist: ./core/common.links.
+[15] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html.
+[15] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html.
+[16] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html.
+[16] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx.
+[16] ./zephyr.pl 257 adding file to watchlist: ./.zephyr/zephyr.log.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png.
+[16] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png.
+[17] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/index.html.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png.
+[18] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png.
+[19] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png.
+[20] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js.
+[38] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=core,., --config=./config ./main.links
+[1207] ./zephyr.pl 109 Caught: INT
+[1346] ./zephyr.pl 109 Caught: INT
+[6] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md.
+[6] ./zephyr.pl 257 adding file to watchlist: ./a.js.
+[6] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite.
+[6] ./zephyr.pl 252 adding directoru to watchlist: ..
+[6] ./zephyr.pl 257 adding file to watchlist: ./main.links.
+[7] ./zephyr.pl 257 adding file to watchlist: ./app.js.
+[7] ./zephyr.pl 257 adding file to watchlist: ./config.
+[7] ./zephyr.pl 257 adding file to watchlist: ./index.html.
+[7] ./zephyr.pl 257 adding file to watchlist: ./README.md.
+[7] ./zephyr.pl 257 adding file to watchlist: ./style.css.
+[7] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl.
+[7] ./zephyr.pl 257 adding file to watchlist: ./CNAME.
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links.
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/home.links.
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/common.links.
+[10] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html.
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html.
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html.
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx.
+[10] ./zephyr.pl 232 skipping zephyr file: ./.zephyr/zephyr.log in ./.zephyr.
+[10] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/index.html.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js.
+[31] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=core,., --config=./config ./main.links
+[600] ./zephyr.pl 109 Caught: INT
+[901] ./zephyr.pl 109 Caught: INT
+[6] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md.
+[6] ./zephyr.pl 257 adding file to watchlist: ./a.js.
+[6] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite.
+[6] ./zephyr.pl 252 adding directoru to watchlist: ..
+[6] ./zephyr.pl 257 adding file to watchlist: ./main.links.
+[6] ./zephyr.pl 257 adding file to watchlist: ./app.js.
+[6] ./zephyr.pl 257 adding file to watchlist: ./config.
+[6] ./zephyr.pl 257 adding file to watchlist: ./index.html.
+[6] ./zephyr.pl 257 adding file to watchlist: ./README.md.
+[6] ./zephyr.pl 257 adding file to watchlist: ./style.css.
+[6] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl.
+[7] ./zephyr.pl 257 adding file to watchlist: ./CNAME.
+[9] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links.
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/home.links.
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core.
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/common.links.
+[10] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html.
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html.
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html.
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx.
+[10] ./zephyr.pl 232 skipping zephyr file: ./.zephyr/zephyr.log.
+[10] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg.
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/index.html.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg.
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png.
+[13] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js.
+[30] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=.,core, --config=./config ./main.links
+[833] ./zephyr.pl 109 Caught: INT
+[1004] ./zephyr.pl 109 Caught: INT
+[6] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md
+[7] ./zephyr.pl 257 adding file to watchlist: ./a.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite
+[7] ./zephyr.pl 252 adding directoru to watchlist: .
+[7] ./zephyr.pl 257 adding file to watchlist: ./main.links
+[7] ./zephyr.pl 257 adding file to watchlist: ./app.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./config
+[7] ./zephyr.pl 257 adding file to watchlist: ./index.html
+[7] ./zephyr.pl 257 adding file to watchlist: ./README.md
+[7] ./zephyr.pl 257 adding file to watchlist: ./style.css
+[8] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl
+[8] ./zephyr.pl 257 adding file to watchlist: ./CNAME
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/home.links
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/common.links
+[11] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html
+[12] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[12] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[12] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[12] ./zephyr.pl 232 skipping zephyr file: ./.zephyr/zephyr.log
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/index.html
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png
+[16] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js
+[34] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=.,core, --config=./config ./main.links
+[543] ./zephyr.pl 109 Caught: INT
+[698] ./zephyr.pl 109 Caught: INT
+[6] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md
+[7] ./zephyr.pl 257 adding file to watchlist: ./a.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite
+[7] ./zephyr.pl 252 adding directoru to watchlist: .
+[7] ./zephyr.pl 257 adding file to watchlist: ./main.links
+[7] ./zephyr.pl 257 adding file to watchlist: ./app.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./config
+[7] ./zephyr.pl 257 adding file to watchlist: ./index.html
+[7] ./zephyr.pl 257 adding file to watchlist: ./README.md
+[7] ./zephyr.pl 257 adding file to watchlist: ./style.css
+[8] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl
+[8] ./zephyr.pl 257 adding file to watchlist: ./CNAME
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/home.links
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/common.links
+[11] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[11] ./zephyr.pl 232 skipping zephyr file: ./.zephyr/zephyr.log
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/index.html
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js
+[31] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=.,core, --config=./config ./main.links
+[3935] ./zephyr.pl 152 refreshed page with updated content.
+[8343] ./zephyr.pl 109 Caught: INT
+[6] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md
+[7] ./zephyr.pl 257 adding file to watchlist: ./a.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite
+[7] ./zephyr.pl 252 adding directoru to watchlist: .
+[7] ./zephyr.pl 257 adding file to watchlist: ./main.links
+[7] ./zephyr.pl 257 adding file to watchlist: ./app.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./config
+[7] ./zephyr.pl 257 adding file to watchlist: ./index.html
+[7] ./zephyr.pl 257 adding file to watchlist: ./README.md
+[7] ./zephyr.pl 257 adding file to watchlist: ./style.css
+[7] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl
+[8] ./zephyr.pl 257 adding file to watchlist: ./CNAME
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/home.links
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/common.links
+[11] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[11] ./zephyr.pl 232 skipping zephyr file: ./.zephyr/zephyr.log
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/index.html
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js
+[31] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=core,., --config=./config ./main.links
+[3747] ./zephyr.pl 152 refreshed page with updated content
+[6] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md
+[7] ./zephyr.pl 257 adding file to watchlist: ./a.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite
+[7] ./zephyr.pl 252 adding directoru to watchlist: .
+[7] ./zephyr.pl 257 adding file to watchlist: ./main.links
+[7] ./zephyr.pl 257 adding file to watchlist: ./app.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./config
+[8] ./zephyr.pl 257 adding file to watchlist: ./index.html
+[8] ./zephyr.pl 257 adding file to watchlist: ./README.md
+[8] ./zephyr.pl 257 adding file to watchlist: ./style.css
+[8] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl
+[8] ./zephyr.pl 257 adding file to watchlist: ./CNAME
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/home.links
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/common.links
+[11] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[11] ./zephyr.pl 232 skipping zephyr file: ./.zephyr/zephyr.log
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/index.html
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js
+[30] ./zephyr.pl 211 calling Links as: links --debug --session-exceptions --path=core,., --config=./config ./main.links
+[3672] ./zephyr.pl 152 refreshed page with updated content
+[11367] ./zephyr.pl 109 Caught: INT
+[5] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md
+[6] ./zephyr.pl 257 adding file to watchlist: ./a.js
+[6] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite
+[6] ./zephyr.pl 252 adding directoru to watchlist: .
+[6] ./zephyr.pl 257 adding file to watchlist: ./main.links
+[6] ./zephyr.pl 257 adding file to watchlist: ./app.js
+[6] ./zephyr.pl 257 adding file to watchlist: ./config
+[6] ./zephyr.pl 257 adding file to watchlist: ./index.html
+[6] ./zephyr.pl 257 adding file to watchlist: ./README.md
+[6] ./zephyr.pl 257 adding file to watchlist: ./style.css
+[6] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl
+[7] ./zephyr.pl 257 adding file to watchlist: ./CNAME
+[9] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[9] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links
+[9] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[9] ./zephyr.pl 257 adding file to watchlist: ./core/home.links
+[10] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[10] ./zephyr.pl 257 adding file to watchlist: ./core/common.links
+[10] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[10] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[10] ./zephyr.pl 232 skipping zephyr file: ./.zephyr/zephyr.log
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png
+[11] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/index.html
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js
+[30] ./zephyr.pl 211 calling Links as: links --session-exceptions --path=core,., --config=./config ./main.links
+[8944] ./zephyr.pl 152 refreshed page with updated content
+[11978] ./zephyr.pl 109 Caught: INT
+[7] ./zephyr.pl 257 adding file to watchlist: ./USAGE.md
+[7] ./zephyr.pl 257 adding file to watchlist: ./a.js
+[7] ./zephyr.pl 257 adding file to watchlist: ./db.sqlite
+[7] ./zephyr.pl 252 adding directoru to watchlist: .
+[7] ./zephyr.pl 257 adding file to watchlist: ./main.links
+[7] ./zephyr.pl 257 adding file to watchlist: ./app.js
+[8] ./zephyr.pl 257 adding file to watchlist: ./config
+[8] ./zephyr.pl 257 adding file to watchlist: ./index.html
+[8] ./zephyr.pl 257 adding file to watchlist: ./README.md
+[8] ./zephyr.pl 257 adding file to watchlist: ./style.css
+[8] ./zephyr.pl 257 adding file to watchlist: ./zephyr.pl
+[8] ./zephyr.pl 257 adding file to watchlist: ./CNAME
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/chat.links
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/home.links
+[11] ./zephyr.pl 252 adding directoru to watchlist: ./core
+[11] ./zephyr.pl 257 adding file to watchlist: ./core/common.links
+[11] ./zephyr.pl 257 adding file to watchlist: ./chat/index.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[11] ./zephyr.pl 257 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[12] ./zephyr.pl 257 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[12] ./zephyr.pl 232 skipping zephyr file: ./.zephyr/zephyr.log
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/marx.jpg
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-72x72.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-48x48.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-180x180.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-57x57.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-144x144.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-150x150.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-114x114.png
+[12] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-144x144.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-96x96.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/manifest.json
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/plato.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-152x152.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/kondylis.jpeg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-70x70.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/weil.jpg
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-120x120.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-76x76.png
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/favicon.ico
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/index.html
+[13] ./zephyr.pl 257 adding file to watchlist: ./static/ilyenkov.jpg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-192x192.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-16x16.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/browserconfig.xml
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-precomposed.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/arendt.jpg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-60x60.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-32x32.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/ms-icon-310x310.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/aquinas.jpg
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/android-icon-36x36.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/apple-icon-72x72.png
+[14] ./zephyr.pl 257 adding file to watchlist: ./static/favicon-96x96.png
+[15] ./zephyr.pl 257 adding file to watchlist: ./lib/pocketbase.umd.js
+[34] ./zephyr.pl 211 calling Links as: links --path=core,., --config=./config ./main.links
+[1717] ./zephyr.pl 109 Caught: INT
+[1889] ./zephyr.pl 109 Caught: INT
+[3587] script/zephyr.pl 143 refreshed page with updated content
+[27268] script/zephyr.pl 161 ./core/home.links updated. Restarting server and reloading browser.
+[27858] script/zephyr.pl 143 refreshed page with updated content
+[3561] script/zephyr.pl 142 refreshed page with updated content
+[9412] script/zephyr.pl 160 ./core/home.links updated. Restarting server and reloading browser.
+[9992] script/zephyr.pl 142 refreshed page with updated content
+[7867] script/zephyr.pl 160 ./core/home.links updated. Restarting server and reloading browser.
+[46173] script/zephyr.pl 160 ./core/common.links updated. Restarting server and reloading browser.
+[54619] script/zephyr.pl 160 ./core/common.links updated. Restarting server and reloading browser.
+[293920] script/zephyr.pl 160 ./core/chat.links updated. Restarting server and reloading browser.
+[7121] ./zephyr.pl 158 ./core/chat.links updated. Restarting server and reloading browser.
+[7122] ./zephyr.pl 158 ./core/chat.links updated. Restarting server and reloading browser.
+[11535] ./zephyr.pl 158 ./core/chat.links updated. Restarting server and reloading browser.
+[11536] ./zephyr.pl 158 ./core/chat.links updated. Restarting server and reloading browser.
+[8] ./zephyr.pl 244 adding file to watchlist: ./USAGE.md
+[8] ./zephyr.pl 244 adding file to watchlist: ./a.js
+[8] ./zephyr.pl 244 adding file to watchlist: ./db.sqlite
+[8] ./zephyr.pl 239 adding directoru to watchlist: .
+[8] ./zephyr.pl 244 adding file to watchlist: ./main.links
+[8] ./zephyr.pl 244 adding file to watchlist: ./app.js
+[9] ./zephyr.pl 244 adding file to watchlist: ./config
+[9] ./zephyr.pl 244 adding file to watchlist: ./index.html
+[9] ./zephyr.pl 244 adding file to watchlist: ./README.md
+[9] ./zephyr.pl 244 adding file to watchlist: ./style.css
+[9] ./zephyr.pl 244 adding file to watchlist: ./zephyr.pl
+[9] ./zephyr.pl 244 adding file to watchlist: ./CNAME
+[9] ./zephyr.pl 215 skipping git file: ./.git/packed-refs
+[9] ./zephyr.pl 215 skipping git file: ./.git/FETCH_HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/index
+[9] ./zephyr.pl 215 skipping git file: ./.git/config
+[10] ./zephyr.pl 215 skipping git file: ./.git/COMMIT_EDITMSG
+[10] ./zephyr.pl 215 skipping git file: ./.git/HEAD
+[10] ./zephyr.pl 215 skipping git file: ./.git/description
+[10] ./zephyr.pl 215 skipping git file: ./.git/ORIG_HEAD
+[10] ./zephyr.pl 215 skipping git file: ./.git/logs/HEAD
+[10] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/heads/main
+[10] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/remotes/origin/main
+[10] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/remotes/origin/HEAD
+[10] ./zephyr.pl 215 skipping git file: ./.git/info/exclude
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx
+[14] ./zephyr.pl 215 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/post-update.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-merge-commit.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/prepare-commit-msg.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-rebase.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-applypatch.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-commit.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/fsmonitor-watchman.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/commit-msg.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/push-to-checkout.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-receive.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-push.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/update.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/hooks/applypatch-msg.sample
+[15] ./zephyr.pl 215 skipping git file: ./.git/refs/heads/main
+[16] ./zephyr.pl 215 skipping git file: ./.git/refs/remotes/origin/main
+[16] ./zephyr.pl 215 skipping git file: ./.git/refs/remotes/origin/HEAD
+[16] ./zephyr.pl 239 adding directoru to watchlist: ./core
+[16] ./zephyr.pl 244 adding file to watchlist: ./core/chat.links
+[16] ./zephyr.pl 239 adding directoru to watchlist: ./core
+[16] ./zephyr.pl 244 adding file to watchlist: ./core/home.links
+[16] ./zephyr.pl 239 adding directoru to watchlist: ./core
+[16] ./zephyr.pl 244 adding file to watchlist: ./core/common.links
+[16] ./zephyr.pl 244 adding file to watchlist: ./chat/index.html
+[17] ./zephyr.pl 244 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[17] ./zephyr.pl 244 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[17] ./zephyr.pl 244 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[17] ./zephyr.pl 219 skipping zephyr file: ./.zephyr/zephyr.log
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/marx.jpg
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-72x72.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-48x48.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-180x180.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-57x57.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-144x144.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-144x144.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-150x150.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-114x114.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-144x144.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-96x96.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/manifest.json
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/plato.jpg
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-152x152.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/kondylis.jpeg
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-70x70.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/weil.jpg
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-120x120.png
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-76x76.png
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/favicon.ico
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/index.html
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/ilyenkov.jpg
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-192x192.png
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-16x16.png
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/browserconfig.xml
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-precomposed.png
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/arendt.jpg
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-60x60.png
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-32x32.png
+[19] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-310x310.png
+[20] ./zephyr.pl 244 adding file to watchlist: ./static/aquinas.jpg
+[20] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-36x36.png
+[20] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-72x72.png
+[20] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-96x96.png
+[20] ./zephyr.pl 244 adding file to watchlist: ./lib/pocketbase.umd.js
+[65111] ./zephyr.pl 158 ./zephyr.pl updated. Restarting server and reloading browser.
+[65112] ./zephyr.pl 158 ./zephyr.pl updated. Restarting server and reloading browser.
+[154759] ./zephyr.pl 158 ./core/chat.links updated. Restarting server and reloading browser.
+[154798] ./zephyr.pl 158 ./core/chat.links updated. Restarting server and reloading browser.
+[167986] ./zephyr.pl 158 ./zephyr.pl updated. Restarting server and reloading browser.
+[167988] ./zephyr.pl 158 ./zephyr.pl updated. Restarting server and reloading browser.
+[184022] ./zephyr.pl 158 ./zephyr.pl updated. Restarting server and reloading browser.
+[184023] ./zephyr.pl 158 ./zephyr.pl updated. Restarting server and reloading browser.
+[185579] ./zephyr.pl 100 Caught: INT
+[6] ./zephyr.pl 244 adding file to watchlist: ./USAGE.md
+[7] ./zephyr.pl 244 adding file to watchlist: ./a.js
+[7] ./zephyr.pl 244 adding file to watchlist: ./db.sqlite
+[7] ./zephyr.pl 239 adding directory to watchlist: .
+[7] ./zephyr.pl 244 adding file to watchlist: ./main.links
+[7] ./zephyr.pl 244 adding file to watchlist: ./app.js
+[8] ./zephyr.pl 244 adding file to watchlist: ./config
+[8] ./zephyr.pl 244 adding file to watchlist: ./index.html
+[8] ./zephyr.pl 244 adding file to watchlist: ./README.md
+[8] ./zephyr.pl 244 adding file to watchlist: ./style.css
+[8] ./zephyr.pl 244 adding file to watchlist: ./zephyr.pl
+[8] ./zephyr.pl 244 adding file to watchlist: ./CNAME
+[8] ./zephyr.pl 215 skipping git file: ./.git/packed-refs
+[8] ./zephyr.pl 215 skipping git file: ./.git/FETCH_HEAD
+[8] ./zephyr.pl 215 skipping git file: ./.git/index
+[8] ./zephyr.pl 215 skipping git file: ./.git/config
+[8] ./zephyr.pl 215 skipping git file: ./.git/COMMIT_EDITMSG
+[8] ./zephyr.pl 215 skipping git file: ./.git/HEAD
+[8] ./zephyr.pl 215 skipping git file: ./.git/description
+[8] ./zephyr.pl 215 skipping git file: ./.git/ORIG_HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/logs/HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/heads/main
+[9] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/remotes/origin/main
+[9] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/remotes/origin/HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/info/exclude
+[9] ./zephyr.pl 215 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8
+[9] ./zephyr.pl 215 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db
+[9] ./zephyr.pl 215 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb
+[9] ./zephyr.pl 215 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133
+[9] ./zephyr.pl 215 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack
+[12] ./zephyr.pl 215 skipping git file: ./.git/hooks/post-update.sample
+[12] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-merge-commit.sample
+[12] ./zephyr.pl 215 skipping git file: ./.git/hooks/prepare-commit-msg.sample
+[12] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-rebase.sample
+[12] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-applypatch.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-commit.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/fsmonitor-watchman.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/commit-msg.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/push-to-checkout.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-receive.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-push.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/update.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/applypatch-msg.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/refs/heads/main
+[13] ./zephyr.pl 215 skipping git file: ./.git/refs/remotes/origin/main
+[13] ./zephyr.pl 215 skipping git file: ./.git/refs/remotes/origin/HEAD
+[13] ./zephyr.pl 239 adding directory to watchlist: ./core
+[13] ./zephyr.pl 244 adding file to watchlist: ./core/chat.links
+[14] ./zephyr.pl 239 adding directory to watchlist: ./core
+[14] ./zephyr.pl 244 adding file to watchlist: ./core/home.links
+[14] ./zephyr.pl 239 adding directory to watchlist: ./core
+[14] ./zephyr.pl 244 adding file to watchlist: ./core/common.links
+[14] ./zephyr.pl 244 adding file to watchlist: ./chat/index.html
+[14] ./zephyr.pl 244 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[14] ./zephyr.pl 244 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[14] ./zephyr.pl 244 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[14] ./zephyr.pl 219 skipping zephyr file: ./.zephyr/zephyr.log
+[14] ./zephyr.pl 244 adding file to watchlist: ./static/marx.jpg
+[14] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-72x72.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-48x48.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-180x180.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-57x57.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-144x144.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-144x144.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-150x150.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-114x114.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-144x144.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-96x96.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/manifest.json
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/plato.jpg
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-152x152.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/kondylis.jpeg
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-70x70.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/weil.jpg
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-120x120.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-76x76.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/favicon.ico
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/index.html
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/ilyenkov.jpg
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-192x192.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-16x16.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/browserconfig.xml
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-precomposed.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/arendt.jpg
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-60x60.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-32x32.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-310x310.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/aquinas.jpg
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-36x36.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-72x72.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-96x96.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./lib/pocketbase.umd.js
+[6976] ./zephyr.pl 156 ./core/chat.links updated. Restarting server and reloading browser.
+[6979] ./zephyr.pl 156 ./core/chat.links updated. Restarting server and reloading browser.
+[22683] ./zephyr.pl 156 ./zephyr.pl updated. Restarting server and reloading browser.
+[22684] ./zephyr.pl 156 ./zephyr.pl updated. Restarting server and reloading browser.
+[26792] ./zephyr.pl 156 ./zephyr.pl updated. Restarting server and reloading browser.
+[26794] ./zephyr.pl 156 ./zephyr.pl updated. Restarting server and reloading browser.
+[47294] ./zephyr.pl 156 ./zephyr.pl updated. Restarting server and reloading browser.
+[48895] ./zephyr.pl 100 Caught: INT
+[7] ./zephyr.pl 244 adding file to watchlist: ./USAGE.md
+[8] ./zephyr.pl 244 adding file to watchlist: ./a.js
+[8] ./zephyr.pl 244 adding file to watchlist: ./db.sqlite
+[8] ./zephyr.pl 239 adding directory to watchlist: .
+[8] ./zephyr.pl 244 adding file to watchlist: ./main.links
+[8] ./zephyr.pl 244 adding file to watchlist: ./app.js
+[8] ./zephyr.pl 244 adding file to watchlist: ./config
+[8] ./zephyr.pl 244 adding file to watchlist: ./index.html
+[8] ./zephyr.pl 244 adding file to watchlist: ./README.md
+[8] ./zephyr.pl 244 adding file to watchlist: ./style.css
+[8] ./zephyr.pl 244 adding file to watchlist: ./zephyr.pl
+[8] ./zephyr.pl 244 adding file to watchlist: ./CNAME
+[8] ./zephyr.pl 215 skipping git file: ./.git/packed-refs
+[9] ./zephyr.pl 215 skipping git file: ./.git/FETCH_HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/index
+[9] ./zephyr.pl 215 skipping git file: ./.git/config
+[9] ./zephyr.pl 215 skipping git file: ./.git/COMMIT_EDITMSG
+[9] ./zephyr.pl 215 skipping git file: ./.git/HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/description
+[9] ./zephyr.pl 215 skipping git file: ./.git/ORIG_HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/logs/HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/heads/main
+[9] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/remotes/origin/main
+[9] ./zephyr.pl 215 skipping git file: ./.git/logs/refs/remotes/origin/HEAD
+[9] ./zephyr.pl 215 skipping git file: ./.git/info/exclude
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/6c/d71c1aa0152444efc964495dff53b1c4b53df8
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/fb/ffde447c04e72cfcf4c2437014c365be7264db
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/cd/4ee1d9725525e58c23e4e4985b6f34f8612ebb
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/c5/541482230075d4b4800ebbb7ac42fad29e5133
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/c1/069c96d010feefcc131a7e4f7d9d3cc1751a28
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/c7/52dc841f7d9a568072697a24bef4039d9aebf6
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/d7/4b1be8b8bb32257fe7c89a9a2825b46fd60373
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/3f/1b4c867fac9ef1f804bf47e75dc18a2286069a
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/ef/d678365bfe8a2d06567fe4e1e27195cbb02746
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/9d/088330ad58b10d021e7f1f25abd1583a820ee7
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/0a/5821b6072c19c8f8ccd0823d06d28dbb9fec45
+[10] ./zephyr.pl 215 skipping git file: ./.git/objects/5e/8a83d877bc7757da6204976330655b6d6cf747
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/57/a4301610c66567fb68337bd71e1e84dcd45d3d
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/37/d47898bf7f953217bd32218df7f7ee872fccd9
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/1e/a1f2bfe69b10532ff874f8277cf65d2295ae9f
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/d8/a549ad132d97d98144f7d7fed913278275215f
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/49/b30ca37b7ad79f52dbd9e2762f42d7c40b42a0
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/a0/e06d4bd808c8f342ac4dcd91030f45299c7d83
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/31/a96aa96a9b7df4bcf9a8795ac5663a26c0a0e1
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/f2/f8e2f7a5edbb22c89d52df55e71f3d7f16d4c3
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/12/68642bd49822a82130951057454da2e1168f21
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/12/5ceeee9043e852125f4588afdc0f692def80f5
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/e1/46e1180fd3a2917ce3bdf050c29bcadaba5775
+[11] ./zephyr.pl 215 skipping git file: ./.git/objects/11/106b016c1a9a417a3b32c9eda5b43239fd260f
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/01/3d4a6a53334fae827a32824eaf51a889396514
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/41/d7d957df3c16385542390d5c13322205862d39
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/c6/9edc2839ffba623697a6a2c8564a24099b9617
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/df/83d7c8bccbfe791db96ef1e99eb19da73e38d4
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/0d/24102615a27e6ded2f2768a60de7ec947c9ce1
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/92/f609b04ac9eb100c50154f0c547e10ef8eba4c
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/bf/b5b46b66dd93f336a4b0f4b8e41b14deb627ef
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/24/622fd87325d932ccdf037e00c30e5d031469bc
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/24/6dfc665f9bb42b6487bd0144c3551cf0f7ab8f
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/f4/fbd12b04f9fc7afc398ebefdfaf93a7aabbc2b
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/85/461f9b9b73563662a85e1a4d074c0bf061ec3f
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/35/8b7230fc499b35958d0aa00d4644b6bc855e1e
+[12] ./zephyr.pl 215 skipping git file: ./.git/objects/56/46a5255eff56334cf4a2bab89268f622844e77
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/03/c428d1b5259bb7e87c100d4fb31caef6849184
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/f0/d1fffd3d86644576d2eb21775f44d7da89ecff
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.idx
+[13] ./zephyr.pl 215 skipping git file: ./.git/objects/pack/pack-3856f14eed400c2f5d66918dc2c3c3f82dde2f17.pack
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/post-update.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-merge-commit.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/prepare-commit-msg.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-rebase.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-applypatch.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-commit.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/fsmonitor-watchman.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/commit-msg.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/push-to-checkout.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-receive.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/pre-push.sample
+[13] ./zephyr.pl 215 skipping git file: ./.git/hooks/update.sample
+[14] ./zephyr.pl 215 skipping git file: ./.git/hooks/applypatch-msg.sample
+[14] ./zephyr.pl 215 skipping git file: ./.git/refs/heads/main
+[14] ./zephyr.pl 215 skipping git file: ./.git/refs/remotes/origin/main
+[14] ./zephyr.pl 215 skipping git file: ./.git/refs/remotes/origin/HEAD
+[14] ./zephyr.pl 239 adding directory to watchlist: ./core
+[14] ./zephyr.pl 244 adding file to watchlist: ./core/chat.links
+[14] ./zephyr.pl 239 adding directory to watchlist: ./core
+[14] ./zephyr.pl 244 adding file to watchlist: ./core/home.links
+[14] ./zephyr.pl 239 adding directory to watchlist: ./core
+[14] ./zephyr.pl 244 adding file to watchlist: ./core/common.links
+[15] ./zephyr.pl 244 adding file to watchlist: ./chat/index.html
+[15] ./zephyr.pl 244 adding file to watchlist: ./student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html
+[15] ./zephyr.pl 244 adding file to watchlist: ./student-essays/the-bourgeois-thought-form-and-the-political-nation.html
+[15] ./zephyr.pl 244 adding file to watchlist: ./student-essays/ON REVOLUTIONARY TOTALIZATION_ THE LOGICAL DETERMINATIONS OF THE POLITICAL NATION (2).docx
+[15] ./zephyr.pl 219 skipping zephyr file: ./.zephyr/zephyr.log
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/marx.jpg
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-72x72.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-48x48.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-180x180.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-57x57.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-144x144.png
+[15] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-144x144.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-150x150.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-114x114.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-144x144.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-96x96.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/manifest.json
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/plato.jpg
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-152x152.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/kondylis.jpeg
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-70x70.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/weil.jpg
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-120x120.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-76x76.png
+[16] ./zephyr.pl 244 adding file to watchlist: ./static/favicon.ico
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/index.html
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/ilyenkov.jpg
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-192x192.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-16x16.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/browserconfig.xml
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-precomposed.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/arendt.jpg
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-60x60.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-32x32.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/ms-icon-310x310.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/aquinas.jpg
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/android-icon-36x36.png
+[17] ./zephyr.pl 244 adding file to watchlist: ./static/apple-icon-72x72.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./static/favicon-96x96.png
+[18] ./zephyr.pl 244 adding file to watchlist: ./lib/pocketbase.umd.js
+[35] ./zephyr.pl 198 calling Links as: links --session-exceptions --path=.,core, --config=./config ./main.links
+[8254] ./zephyr.pl 156 ./core/chat.links updated. Restarting server and reloading browser.
+[8269] ./zephyr.pl 156 ./core/chat.links updated. Restarting server and reloading browser.
+[8285] ./zephyr.pl 198 calling Links as: links --session-exceptions --path=.,core, --config=./config ./main.links
+[8815] ./zephyr.pl 142 refreshed page with updated content
+[18810] ./zephyr.pl 156 ./core/chat.links updated. Restarting server and reloading browser.
+[18827] ./zephyr.pl 156 ./core/chat.links updated. Restarting server and reloading browser.
+[18843] ./zephyr.pl 198 calling Links as: links --session-exceptions --path=.,core, --config=./config ./main.links
+[19394] ./zephyr.pl 142 refreshed page with updated content
+[21571] ./zephyr.pl 156 ./core/chat.links updated. Restarting server and reloading browser.
+[21590] ./zephyr.pl 156 ./core/chat.links updated. Restarting server and reloading browser.
+[21606] ./zephyr.pl 198 calling Links as: links --session-exceptions --path=.,core, --config=./config ./main.links
+[22159] ./zephyr.pl 142 refreshed page with updated content
+[151139] ./zephyr.pl 100 Caught: INT

@@ -1,0 +1,56 @@
+open import Common;
+
+fun main() {
+    page
+    <html> {htmlHead()}
+
+    <body>
+				<div id="mainContainer">
+        <div id="gallery">
+            <div id="images">
+                <img src="static/ilyenkov.jpg" width="200em" />
+                <img src="static/plato.jpg" alt="plato" width="200em" />
+                <img src="static/arendt.jpg" alt="arendt" width="200em" />
+                <img src="static/marx.jpg" alt="marx" width="200em" />
+                <img src="static/weil.jpg" alt="weil" width="200em" />
+                <img src="static/aquinas.jpg" alt="aquinas" width="200em" />
+                <img src="static/kondylis.jpeg" alt="kondylis" width="200em" />
+            </div>
+        </div>
+
+        <h1>Bard Philosophy Club</h1>
+        <p>
+            The one-stop shop for all you needs, questions and desires related to the bard philosophy club.
+            The schedule is being worked on and will soon be updated with future talks and events.
+        </p>
+
+        <h2>Schedule (For Spring '25)</h2>
+        <ul>
+						<li>February 26th, Professor Archie Magno on the work of Evald Ilyenkov and Soviet Philosophy</li>
+        </ul>
+
+        <h2>Student Essays</h2>
+        <ul>
+            <li><a href="student-essays/on-revolutionary-totalization-the-logical-determinations-of-the-political-nation.html">on revolutionary totalization: the logical determinations of the political nation by haniel barazarte
+            </a></li>
+        </ul>    
+
+        <h2>Chatroom</h2>
+        <a href="/chat">
+            Enter the void.
+        </a>
+
+        <h2>Contact</h2>
+        <p>
+            Reach out to either henry wandover: <b>hw9692[at]bard[dot]edu</b>. or haniel barazarte: <b>hb5177[at]bard[dot]edu</b>.
+        </p>
+
+				</div>
+
+
+        <footer><a href="https://www.github.com/yung-turabian" target="_blank" rel="noopener noreferrer">yung-turabian</a> (c) 2025</footer>
+    </body>
+    </html>
+}
+
+main()

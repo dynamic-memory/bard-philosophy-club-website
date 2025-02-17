@@ -1,0 +1,5 @@
+external_base_url=bardphil.space
+port=8080
+##debug=true
+#database_driver=postgresql
+#database_args=:5432:postgres:db.hyltplfclefvctlnzoco.supabase.co:

@@ -1,0 +1,19 @@
+open import Common;
+
+#var db = database "bardphil_chat";
+
+#var usersTable = table "users"
+#                  with (id: Int, username: String,
+#                        password: String) from db;
+
+
+fun main() {
+    page
+    <html> {htmlHead()}
+    <body>
+        <p>WIP</p>
+    </body>
+    </html>
+}
+
+main()
