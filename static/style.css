@@ -1,5 +1,14 @@
+@font-face {
+	font-family: 'SinaNova';
+	src:
+		local('Sina Nova'),
+		local('Sina-Nova'),
+		url('sina_nova.ttf') format('truetype');
+	font-style: normal;
+}
+
 * {
-    font-family: serif;
+    font-family: SinaNova, serif;
 }
 
 h1 {
