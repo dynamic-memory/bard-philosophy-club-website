@@ -43,3 +43,26 @@ a:visited {
     min-width: 0;
     object-fit: contain;
 }
+
+.hover-item {
+    position: relative; 
+    display: inline-block; 
+    padding-right: 10em;
+}
+
+.hover-image {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-top: -20em;
+  width: 40em; 
+	height: auto;
+	float: right;
+}
+
+
+
+.hover-item:hover .hover-image {
+  display: block;
+}
