@@ -7,12 +7,27 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'NerdosFolume';
+	src:
+		local('Nerdos Folume'),
+		local('Nerdos-Folume'),
+		url('NerdosFolume.otf') format('opentype');
+	font-style: normal;
+}
+
 * {
     font-family: SinaNova, serif;
 }
 
 h1 {
+		font-family: NerdosFolume, SinaNova, serif;
+		font-size: 3em;
     color: 	#b00000;
+}
+
+p, li {
+		font-size: 1.2em;
 }
 
 a {
@@ -21,6 +36,11 @@ a {
 
 a:visited {
     color: #7e0000;
+}
+
+img {
+		padding-bottom: 25px;
+		padding-top: 25px;
 }
 
 
